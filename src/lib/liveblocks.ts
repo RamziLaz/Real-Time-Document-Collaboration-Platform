@@ -1,4 +1,3 @@
-// src/lib/liveblocksClient.ts
 import { createClient } from "@liveblocks/client";
 
 const client = createClient({

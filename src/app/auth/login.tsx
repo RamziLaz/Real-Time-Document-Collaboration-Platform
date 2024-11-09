@@ -1,4 +1,3 @@
-// src/app/(auth)/login.tsx
 import { useSupabaseAuth } from "../../hooks/useSupabaseAuth";
 import { Button, Input } from "@shadcn/ui";
 import { useState } from "react";
